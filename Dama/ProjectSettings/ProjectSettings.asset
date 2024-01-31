@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: e18dd3736854e4a44a9c25a1db0b6e05
+  productGUID: 7316a1e7a1bcf7d4eb74d75018c5180b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -747,12 +747,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 12795612-78c1-48a6-9767-7d7f32cc65e6
+  cloudProjectId: b56a3f9e-87f8-4637-9d3f-fc39c3aa7744
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Dama 2024-01-29_22-15-01
+  projectName: Dama
   organizationId: unity_xq4cyrpdfikbgg
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
